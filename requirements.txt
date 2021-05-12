@@ -1,0 +1,9 @@
+bokeh==2.2.1
+pandas
+numpy
+requests
+simplejson
+psycopg2-binary
+#sqlalchemy
+#os
+#io
